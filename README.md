@@ -39,3 +39,5 @@ One of the following delivery methods so we can review your code:
 *	Docker via Docker Hub
 
 Good luck and have fun!
+
+**Please don't fork this repository. Don't spoil the fun for others!**
