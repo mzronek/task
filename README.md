@@ -9,15 +9,15 @@ Implement a chat bot as a web application using the [flow.json](flow.json) file 
 - [x] Use the chosen option‘s nextId to guide the user through the dynamic flow
 - [x] All previously entered answers need to be displayed
 - [x] If the nextId is false, the flow is terminated and the following message is shown: „Herzlichen Dank für Ihre Angaben“
-- [x] Finally the answers are sent combined as a PUT request to [this endpoint](https://virtserver.swaggerhub.com/L8475/task/1.0.0/conversation) (see [OpenAPI specification](https://app.swaggerhub.com/apis-docs/L8475/task/1.0.0) for details)
+- [x] Finally the answers are sent combined as a PUT request to [this endpoint](https://virtserver.swaggerhub.com/L8475/task/1.0.1/conversation) (see [OpenAPI specification](https://app.swaggerhub.com/apis-docs/L8475/task/1.0.1) for details)
 
 ## Tools & Technology Stack
 
-* Visual Studio Code
-*	Git
-*	Typescript 3+ (Strict Mode)
-*	React 17+
-*	Material UI and JSS
+*   Visual Studio Code
+*   Git
+*   Typescript 4+ (Strict Mode)
+*   React 17+
+*   Material UI 4+ and JSS
 
 ## Target
 
@@ -34,7 +34,7 @@ ECMAScript 2015
 
 One of the following delivery methods so we can review your code:
 
-*	Git repository + yarn start to run a dev build
+*	Git repository + local yarn dev/start to run a dev/production build
 *	Git repository + VS Code Dev Container
 *	Docker via Docker Hub
 
